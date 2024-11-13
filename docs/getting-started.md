@@ -27,7 +27,7 @@ iwr -useb https://raw.githubusercontent.com/spicetify/marketplace/main/resources
 #### Shell (pre-built binary)
 Spicetify CLI
 ```sh
-curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh |
 ```
 Spicetify Marketplace
 ```sh
